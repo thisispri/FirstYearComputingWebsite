@@ -12,9 +12,9 @@
 <body>
     <!--dmu logo-->
     <header>
-        <img src="images/dmu-logo.jpg" alt="dmu logo" style="width:100%" />
+        <img src="images/dmu-logo.png" alt="dmu logo" style="width:100%" />
     </header>
-
+    
     <!--breadcrumb links-->
     <ul class="breadcrumb">
         <li><a href="#">Home</a></li>
@@ -117,7 +117,9 @@
 
 
         </table>
-        <button class="btnSubmit" type="button" onclick="alert('Thank you for applying!')">Submit</button>
+        <%--<button class="btnSubmit" type="button" onclick="alert('Thank you for applying!')">Submit</button>--%>
+        <asp:Button ID="btnSubmit" runat="server" height="26px" Text="Submit" width="61px" OnClick="btnSubmit_Click" /> 
+        
     </form>
 
     <table id="links">
