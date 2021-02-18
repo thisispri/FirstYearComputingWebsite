@@ -91,7 +91,7 @@
     </section>
 
 
-    <form method="post" action="#">
+    <form method="post" action="#" runat="server">
 
         <!--Apply for taster day-->
         <h4> Apply for taster day</h4>
