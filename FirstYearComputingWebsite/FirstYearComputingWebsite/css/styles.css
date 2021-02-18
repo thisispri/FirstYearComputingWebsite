@@ -1,0 +1,150 @@
+﻿body {
+}
+
+header {
+    background-color: white;
+    height: 100px;
+    width: 200px;
+    position: center;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* Style the list */
+ul.breadcrumb {
+    padding: 10px 16px;
+    list-style: none;
+    background-color: #FFFFFF;
+}
+
+    /* Display list items side by side */
+    ul.breadcrumb li {
+        display: inline;
+        font-size: 18px;
+    }
+
+        /* Add a slash symbol (/) before/behind each list item */
+        ul.breadcrumb li + li:before {
+            padding: 8px;
+            color: black;
+            content: "/\00a0";
+        }
+
+        /* Add a color to all links inside the list */
+        ul.breadcrumb li a {
+            color: #0275d8;
+            text-decoration: none;
+        }
+
+            /* Add a color on mouse-over */
+            ul.breadcrumb li a:hover {
+                color: #01447e;
+                text-decoration: underline;
+            }
+
+#course-title {
+    padding-left: 10px;
+    position: absolute;
+    top: 40%;
+    background: red;
+}
+
+#computing {
+    /* position: absolute;*/
+    /*display: block;
+    margin-left: auto;
+    margin-right: auto;*/
+    width: 100%;
+    background-image: url('../images/computing.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    /*height:500px;
+    width:1200px;*/
+    /*text-align:center;*/
+    border: 1px solid white;
+    object-fit: fill;
+}
+
+section h1 {
+}
+
+table {
+    border: 1px solid white;
+    table-layout: fixed;
+    width: 100%;
+}
+
+.block {
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: 700;
+    z-index: 100
+}
+
+column, .columns {
+    width: 100%;
+    float: left;
+}
+
+.slider-navigation h3.cycle-pager-active {
+    background-color: #fff;
+    color: #000;
+    transition-property: color;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    box-shadow: none;
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+
+.slider-navigation h3 {
+    position: relative;
+    display: table-cell;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    margin: 0;
+    font-size: 1.125rem;
+    font-weight: 300;
+    width: 32%;
+    text-align: center;
+    cursor: pointer;
+}
+
+#cycle-slideshow-course.block columns cycle-slideshow slider-content {
+    position: relative;
+    overflow: hidden;
+    height: 442px;
+}
+
+#cycle-slide cycle-sentinel {
+    position: static;
+    top: 0px;
+    left: 0px;
+    z-index: 100;
+    opacity: 1;
+    display: block;
+    visibility: hidden;
+}
+
+#structureContent {
+    visibility: hidden;
+}
+
+#6modules {
+    visibility: hidden;
+    width: 50%;
+}
+
+    #6modules p {
+        visibility: hidden;
+    }
+
+#div_top_hypers {
+    background-color: #eeeeee;
+    display: inline;
+}
+
+#ul_top_hypers li {
+    display: inline;
+}
