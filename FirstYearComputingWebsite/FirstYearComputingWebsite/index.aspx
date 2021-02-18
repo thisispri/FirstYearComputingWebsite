@@ -12,7 +12,7 @@
 <body>
     <!--dmu logo-->
     <header>
-        <img src="images/dmu-logo.png" alt="dmu logo" style="width:100%" />
+        <img src="images/dmu-logo.jpg" alt="dmu logo" style="width:100%" />
     </header>
 
     <!--breadcrumb links-->
