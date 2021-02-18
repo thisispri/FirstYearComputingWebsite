@@ -90,6 +90,12 @@
 
     </section>
 
+    <button type="button" class="collapsible">Open Collapsible</button>
+    <div class="content">
+    <p>Lorem ipsum...</p>
+    </div>
+
+
 
     <form method="post" action="#" runat="server">
 
@@ -134,6 +140,7 @@
            
         </ul>
     </div>
+   <script src="scripts/scripts.js"></script>
 </body>
 </html>
 
