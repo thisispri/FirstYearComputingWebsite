@@ -177,8 +177,7 @@
         
     </form>
 
-    <table id="links">
-    </table>
+    
 
     <div id="div_top_hypers">
         <ul id="ul_top_hypers">
