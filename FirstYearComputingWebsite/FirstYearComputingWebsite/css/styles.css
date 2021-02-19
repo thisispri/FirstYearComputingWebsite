@@ -50,19 +50,22 @@ ul.breadcrumb {
 }
 
 #computing {
-    /* position: absolute;*/
-    /*display: block;
-    margin-left: auto;
-    margin-right: auto;*/
-    width: 100%;
+    min-height: 10vh;
+    height:300px;
+    background-size:cover;
+    text-align:center;
+    display:flex;
+    flex-direction:column;
+    justify-content: flex-end;
+    /*box-sizing:border-box;*/
+    /*width: 100%;
     background-image: url('../images/computing.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    /*height:500px;
-    width:1200px;*/
-    /*text-align:center;*/
+    
     border: 1px solid white;
-    object-fit: fill;
+    object-fit: fill;*/
+    background-image: url('../images/computing.jpg');
 }
 
 
