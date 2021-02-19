@@ -89,6 +89,7 @@
 
     </section>
 
+    <%--Course Description--%>
     <button type="button" class="collapsible">Course Description</button>
     <div class="content">
     <p>Computing, from the internet to mobile computing, smart devices and beyond, has changed the world – and continues to do so: next-generation robots, driverless cars, and digital currencies are just three examples of what is already on the way.
@@ -98,7 +99,13 @@
 
         If you are attracted to programming and want to get involved in shaping and creating the technological future, Computing BSc (Hons) at De Montfort University is a degree you should consider.</p>
     </div>
+    <%--Entry Requirements --%>
+    <button type="button" class="collapsible">Entry Requirements</button>
+    <div class="content">
+    <p>
 
+    </p>
+    </div>
 
 
     <form method="post" action="#" runat="server">
