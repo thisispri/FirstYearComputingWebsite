@@ -106,6 +106,20 @@
 
     </p>
     </div>
+     <%--Fees and Funding --%>
+    <button type="button" class="collapsible">Fees and Funding</button>
+    <div class="content">
+    <p>
+    </p>
+    </div>
+     <%--Accreditation --%>
+    <button type="button" class="collapsible">Accreditation</button>
+    <div class="content">
+    <p>
+        Accreditation
+        Our Computer Science degrees are accredited for Chartered IT Professional (CITP), the British Computer Society's (BCS) Chartered qualification. On graduation, you’ll have the right to join the BCS - the principal organisation for IT professionals in the UK. 
+    </p>
+    </div>
 
 
     <form method="post" action="#" runat="server">
