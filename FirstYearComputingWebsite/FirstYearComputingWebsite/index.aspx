@@ -120,6 +120,22 @@
         Our Computer Science degrees are accredited for Chartered IT Professional (CITP), the British Computer Society's (BCS) Chartered qualification. On graduation, you’ll have the right to join the BCS - the principal organisation for IT professionals in the UK. 
     </p>
     </div>
+     <%--Careers and Employability --%>
+    <button type="button" class="collapsible">Careers and Employability</button>
+    <div class="content">
+    <p>
+        Careers and employability
+        Many of our modules feature external speakers who are able to give first-hand accounts of how the latest computing innovations are used in industry.
+
+        You will work on a project commissioned by a real client and gain an insight into the practices of design, implementation and professional project management. You will be taught how to specify, design and develop software systems, gaining the technical skills and insights that employers value very highly.
+
+        Graduate destinations
+        Graduates from the Department of Informatics have gone on to many different careers, whether working for large companies, such as Accenture, BAE systems, Bloomberg and LogicaCMG, or for small, innovative start-ups. You may go on to apply your knowledge directly as a software engineer or systems analyst – or you may apply your IT skills and problem-solving abilities in a related field such as finance, marketing or general business.
+
+        Career Development Service
+
+        Get career-ready at Leicester with guidance from our award-winning Career Development Service. We're here to give you a lifetime offer of support, even after graduation. Our team of specialist careers advisers and mentors will help you every step of the way. From supporting you with CVs and interviews, to volunteering opportunities and placements, we're here to help you reach your professional goals.    </p>
+    </div>
 
 
     <form method="post" action="#" runat="server">
