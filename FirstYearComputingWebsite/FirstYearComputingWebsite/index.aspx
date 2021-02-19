@@ -84,15 +84,19 @@
                 <li>
                     The Global Web
                 </li>
-
             </ul>
         </div>
 
     </section>
 
-    <button type="button" class="collapsible">Open Collapsible</button>
+    <button type="button" class="collapsible">Course Description</button>
     <div class="content">
-    <p>Lorem ipsum...</p>
+    <p>Computing, from the internet to mobile computing, smart devices and beyond, has changed the world – and continues to do so: next-generation robots, driverless cars, and digital currencies are just three examples of what is already on the way.
+        Creating these exciting new technologies generates an ongoing need for excellent computing graduates. Computing BSc (Hons) is a full stack developer degree which aims to teach you the fundamental range of skills necessary to become a software developer. The degree is designed to equip you with key programming, analysis and design skills including (but not limited to) back and front-end web development, internet-of-things development, user experience design, quality assurance and testing, system administration, and security.
+
+        We aim to offer a modern, relevant computing degree which, upon successful completion, directly promotes employable skills to effectively prepare you for a career within the industry. We aim to teach the tools, techniques and skills demanded by industry using state-of-the-art hardware and software and modern approaches to teaching, which emphasise practical, hands-on, problem-driven learning built around real-world challenges.
+
+        If you are attracted to programming and want to get involved in shaping and creating the technological future, Computing BSc (Hons) at De Montfort University is a degree you should consider.</p>
     </div>
 
 
