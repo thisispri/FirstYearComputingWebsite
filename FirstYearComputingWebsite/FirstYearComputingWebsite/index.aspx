@@ -136,6 +136,14 @@
 
         Get career-ready at Leicester with guidance from our award-winning Career Development Service. We're here to give you a lifetime offer of support, even after graduation. Our team of specialist careers advisers and mentors will help you every step of the way. From supporting you with CVs and interviews, to volunteering opportunities and placements, we're here to help you reach your professional goals.    </p>
     </div>
+    <%--Tips --%>
+    <button type="button" class="collapsible">Tips</button>
+    <div class="content">
+    <p>
+    </p>
+    </div>
+
+
 
 
     <form method="post" action="#" runat="server">
