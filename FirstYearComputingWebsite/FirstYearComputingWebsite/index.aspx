@@ -140,6 +140,9 @@
     <button type="button" class="collapsible">Tips</button>
     <div class="content">
     <p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/vwfk9xxxe_A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/_QU1BM7MIJw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/S7MDDPeS258" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </p>
     </div>
 
