@@ -19,5 +19,6 @@
           <input type="submit" value="login"/>
         </form>
       </section>
+    <script src="scripts.js"></script>
 </body>
 </html>

@@ -12,3 +12,18 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
+const checkConfirmation = (ev) => {
+ if (myPassword.value != myConfirmation.value) {
+  myConfirmation.setCustomValidity("Wait. What? This doesn't match the password field!");
+ } else {
+  myConfirmation.setCustomValidity('');
+ }
+};
+
+myConfirmation.addEventListener('input', checkConfirmation);
+myPassword.addEventListener('input', checkConfirmation);
+login.addEventListener('submit', ev => {
+    alert(`logged in as ${myUser.value}`)
+    login.reset();
+    ev.preventDefault();
+});
