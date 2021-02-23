@@ -12,5 +12,11 @@ public partial class login : System.Web.UI.Page
 
     }
 
-    
+
+
+    protected void btnRegister_Click(object sender, EventArgs e)
+    {
+        //redirect to the register page
+        Response.Redirect("register.aspx");
+    }
 }

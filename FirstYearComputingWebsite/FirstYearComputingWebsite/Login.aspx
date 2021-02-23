@@ -29,7 +29,7 @@
           <div class="register">
           <h2>Register</h2>
           <p>If you have not registered for 2021 entry, please click the 'register' button to use this service. You only need to register once.</p>
-              <asp:Button ID="btnRegister" runat="server" Text="Register" />
+              <asp:Button ID="btnRegister" runat="server" Text="Register" OnClick="btnRegister_Click" />
         </div>
       </section>
        </form>
