@@ -23,13 +23,16 @@
     <div id="forgottenlogin">
         <p> <a href="forgottenlogin.aspx" title="Click here if you have forgotten your password">Forgotten login?</a></p>
     </div>
-
+        
+    <form runat="server">
     <section>
-        <div class="register">
+          <div class="register">
           <h2>Register</h2>
           <p>If you have not registered for 2021 entry, please click the 'register' button to use this service. You only need to register once.</p>
+              <asp:Button ID="btnRegister" runat="server" Text="Register" />
         </div>
       </section>
+       </form>
     <script src="scripts.js"></script>
 </body>
 </html>
