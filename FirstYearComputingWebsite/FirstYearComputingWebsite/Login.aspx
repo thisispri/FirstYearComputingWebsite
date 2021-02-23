@@ -19,6 +19,10 @@
           <input type="submit" value="login"/>
         </form>
       </section>
+
+    <div id="forgottenlogin">
+        <p> <a href="forgottenlogin.aspx" title="Click here if you have forgotten your password"</a><em>Forgotten login?</em> </p>
+    </div>
     <script src="scripts.js"></script>
 </body>
 </html>
