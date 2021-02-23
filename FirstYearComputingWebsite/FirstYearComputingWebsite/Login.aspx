@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Login.aspx.cs" Inherits="Login" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="login.aspx.cs" Inherits="login" %>
 
 <!DOCTYPE html>
 
@@ -9,7 +9,7 @@
 </head>
 <body>
     <section>
-        <form id="login" runat="server">
+        <form id="login">
           <h2>Sign in</h2>
           <label for="myUser">Username: </label>
           <input id="myUser" name="username" placeholder="enter your username" required>
