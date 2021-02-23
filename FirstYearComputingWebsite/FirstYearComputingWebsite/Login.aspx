@@ -21,8 +21,15 @@
       </section>
 
     <div id="forgottenlogin">
-        <p> <a href="forgottenlogin.aspx" title="Click here if you have forgotten your password"</a><em>Forgotten login?</em> </p>
+        <p> <a href="forgottenlogin.aspx" title="Click here if you have forgotten your password">Forgotten login?</a></p>
     </div>
+
+    <section>
+        <div class="register">
+          <h2>Register</h2>
+          <p>If you have not registered for 2021 entry, please click the 'register' button to use this service. You only need to register once.</p>
+        </div>
+      </section>
     <script src="scripts.js"></script>
 </body>
 </html>
