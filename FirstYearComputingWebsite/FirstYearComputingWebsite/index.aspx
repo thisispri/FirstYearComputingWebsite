@@ -4,7 +4,7 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>BSc (Hons) Computing </title>
+    <title>BSc (Hons) Computing</title>
     <!--link to style sheet-->
     <link rel="stylesheet" href="css/styles.css" />
    
